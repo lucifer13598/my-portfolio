@@ -1,111 +1,181 @@
+# 🚀 Md Altamash — Developer Portfolio
 
-# 🌐 Abdul Basit — Personal Portfolio
+Welcome to my personal developer portfolio built with **Next.js, TypeScript, and Tailwind CSS**.
+This website showcases my **projects, skills, experience, and development journey** as a web developer.
 
-Welcome to my **developer portfolio** built with **Next.js 15**, **Tailwind CSS**, and modern web tools. This site showcases my journey, skills, and projects — all wrapped in a sleek, animated, and responsive UI.
-
----
-## 📸 Screenshot
-
-![Homepage of Abdul Basit’s Portfolio](public/Website-overview.png)
----
-## 🚀 Live Demo
-
-🔗 [Visit Portfolio Website](https://abdul-basit-portfolio-website.vercel.app/)
+🌐 **Live Website:**
+https://my-portfolioaltamashmd.vercel.app
 
 ---
 
-## 🧠 Tech Stack
+# 👨‍💻 About Me
 
-- ⚡ **Framework**: [Next.js 15](https://nextjs.org/)
-- 🎨 **Styling**: [Tailwind CSS 3](https://tailwindcss.com/)
-- 💻 **TypeScript**: Fully typed components & utilities
-- 🧩 **Animations**: [Lottie React](https://www.npmjs.com/package/lottie-react)
-- 📧 **Contact**: [EmailJS](https://www.emailjs.com/) integration
-- 📦 **PWA Ready**: Uses [`@ducanh2912/next-pwa`](https://www.npmjs.com/package/@ducanh2912/next-pwa)
-- 🔐 **reCAPTCHA v3**: [Google reCAPTCHA](https://www.npmjs.com/package/react-google-recaptcha)
-- 🧠 **Icons**: [Lucide](https://lucide.dev/), [React Icons](https://react-icons.github.io/)
-- ✅ **Prettier + ESLint**: Enforced code style & formatting
-- 🧪 **Husky**: Git hooks for pre-commit checks
+Hi, I'm **Md Altamash**, a passionate **Full-Stack Web Developer** who loves building modern, scalable, and user-friendly web applications.
+
+I focus on creating clean UI, optimized performance, and engaging digital experiences using modern technologies.
+
+### 💡 What I Do
+
+* Build modern **React & Next.js applications**
+* Design responsive interfaces using **Tailwind CSS**
+* Develop scalable **full-stack web applications**
+* Create animated and interactive UI experiences
+* Work with APIs and databases
 
 ---
 
-## 📁 Folder Structure
+# 🛠 Tech Stack
+
+### Frontend
+
+* React.js
+* Next.js
+* TypeScript
+* Tailwind CSS
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+
+### Tools & Libraries
+
+* GSAP (Animations)
+* Lucide Icons
+* React Icons
+* Framer Motion
+
+### Development Tools
+
+* Git & GitHub
+* Vercel
+* VS Code
+* npm / pnpm
+
+---
+
+# ✨ Features
+
+This portfolio includes:
+
+✔ Modern responsive design
+✔ Smooth UI animations
+✔ Interactive project showcase
+✔ Skills & experience timeline
+✔ Contact form
+✔ Social media links
+✔ Fast loading performance
+✔ SEO optimized pages
+
+---
+
+# 📂 Project Structure
 
 ```
-ghost-oo5-personal-portfolio-website/
-├── public/                  # Static assets, Lottie, images, icons
-├── src/app/
-│   ├── components/          # Reusable UI & page sections
-│   ├── pages/               # Page-specific components (About, Projects, etc.)
-│   ├── css/                 # Custom CSS (e.g., card effects)
-│   ├── fonts/               # Custom fonts
-├── utils/                   # Helper functions & data (skills, projects, etc.)
-├── .husky/                  # Git pre-commit hook
-├── tailwind.config.ts       # Tailwind theme configuration
-├── next.config.ts           # Next.js + PWA configuration
+my-portfolio
+│
+├── public
+│   ├── images
+│   └── icons
+│
+├── src
+│   ├── app
+│   │   ├── components
+│   │   │   ├── about
+│   │   │   ├── contact
+│   │   │   ├── experience
+│   │   │   ├── hero-section
+│   │   │   ├── projects
+│   │   │   └── skills
+│   │
+│   ├── css
+│   └── fonts
+│
+├── utils
+│
+├── package.json
+├── tailwind.config.ts
+└── next.config.ts
 ```
 
 ---
 
-## 🛠️ Getting Started
+# ⚙ Installation & Setup
 
-### 1. Clone this repo
+If you want to run this project locally:
 
-```bash
-git clone https://github.com/your-username/your-portfolio.git
-cd your-portfolio
+### Clone the repository
+
+```
+git clone https://github.com/lucifer13598/my-portfolio.git
 ```
 
-### 2. Install dependencies
+### Go to project folder
 
-```bash
-pnpm install
-# or
+```
+cd my-portfolio
+```
+
+### Install dependencies
+
+```
 npm install
-# or
-yarn install
 ```
 
-### 3. Run the development server
+### Run development server
 
-```bash
-pnpm dev
-# or
+```
 npm run dev
 ```
 
-Then visit: [http://localhost:3000](http://localhost:3000)
+Now open:
 
----
-
-## 🧪 Environment Variables
-
-Copy `.env.example` and create `.env.local`:
-
-```env
-NEXT_PUBLIC_EMAILJS_SERVICE_ID=
-NEXT_PUBLIC_EMAILJS_TEMPLATE_ID=
-NEXT_PUBLIC_EMAILJS_PUBLIC_KEY=
+```
+http://localhost:3000
 ```
 
 ---
 
-## 📦 Deployment
+# 🚀 Deployment
 
-deployed  [here](https://abdul-basit-portfolio-website.vercel.app/)
+This project is deployed using **Vercel**.
 
----
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
+Vercel automatically builds and deploys the application whenever changes are pushed to GitHub.
 
 ---
 
-## 📬 Contact Me
+# 📬 Contact
 
-Got a project in mind or just want to say hi?
+If you want to collaborate, feel free to reach out.
 
-📧 [rajaabdulbasit005@gmail.com](mailto:rajaabdulbasit005@gmail.com)  
+📧 Email
+[lucifer13598@gmail.com](mailto:lucifer13598@gmail.com)
 
-```
+🌍 Portfolio
+https://my-portfolioaltamashmd.vercel.app
+
+💻 GitHub
+https://github.com/lucifer13598
+
+---
+
+# ⭐ Support
+
+If you like this project:
+
+⭐ Star the repository
+🍴 Fork it
+📢 Share with others
+
+---
+
+# 📜 License
+
+This project is open source and available under the **MIT License**.
+
+---
+
+# 🔥 Author
+
+**Md Altamash**
+
+Full Stack Web Developer
+Passionate about building modern web experiences.
