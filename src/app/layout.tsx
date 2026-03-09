@@ -16,30 +16,30 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Abdul Basit | Full Stack Developer & AI Automation Expert",
+  title: "Md Altamash | Full Stack Developer",
   description:
-    "Explore the portfolio of Abdul Basit, a Professional Full Stack Developer specializing in Next.js, AI Automation, and modern web solutions. Built for performance and user experience.",
+    "Portfolio of Md Altamash – Full Stack Developer specializing in MERN stack, React, Node.js, and modern web applications.",
   keywords: [
-    "Abdul Basit",
+    "Md Altamash",
     "Full Stack Developer",
-    "Next.js Portfolio",
-    "AI Automation",
-    "Software Engineer",
+    "MERN Developer",
     "React Developer",
+    "Node.js Developer",
+    "Software Engineer",
   ],
-  authors: [{ name: "Abdul Basit" }],
+  authors: [{ name: "Md Altamash" }],
   openGraph: {
-    title: "Abdul Basit | Personal Portfolio",
+    title: "Md Altamash | Personal Portfolio",
     description:
-      "Full Stack Developer & AI Automation Expert — Building the future of the web.",
-    url: "https://abdulbasit-005.vercel.app",
-    siteName: "Abdul Basit Portfolio",
+      "Full Stack Developer building scalable web applications and modern user experiences.",
+    url: "https://your-portfolio.vercel.app",
+    siteName: "Md Altamash Portfolio",
     images: [
       {
         url: "/Website-overview.png",
         width: 1200,
         height: 630,
-        alt: "Abdul Basit Portfolio Overview",
+        alt: "Md Altamash Portfolio Overview",
       },
     ],
     locale: "en_US",
@@ -47,8 +47,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Abdul Basit | Full Stack Developer",
-    description: "Building modern web applications and AI automations.",
+    title: "Md Altamash | Full Stack Developer",
+    description:
+      "Building modern web applications with MERN stack and scalable architectures.",
     images: ["/Website-overview.png"],
   },
   robots: {

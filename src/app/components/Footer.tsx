@@ -111,11 +111,11 @@ const Footer = () => (
       {/* Divider & Copyright */}
       <div className="mt-16 pt-8 border-t border-white/5 flex flex-col md:flex-row justify-between items-center gap-4 text-gray-500 text-sm">
         <p>
-          &copy; {new Date().getFullYear()} Abdul Basit. All rights reserved.
+          &copy; {new Date().getFullYear()} Md Altamash. All rights reserved.
         </p>
         <p className="flex items-center gap-2">
           Made with <span className="text-red-600 animate-pulse">❤️</span> in
-          Pakistan
+          India
         </p>
       </div>
     </div>
