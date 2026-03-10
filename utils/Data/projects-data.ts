@@ -92,9 +92,9 @@ export const projectsData = [
     ],
     role: "Full-stack Developer",
     code: "https://github.com/lucifer13598",
-    demo: "",
+    demo: "https://employee-management-system-liard-omega.vercel.app",
     date: "",
-    images: ["/projects/employee-management.png"],
+    images: ["/website4.png"],
     videos: [""],
     highlights: [
       "Implemented role-based access control",
@@ -127,9 +127,9 @@ export const projectsData = [
     ],
     role: "Frontend Developer",
     code: "https://github.com/lucifer13598/Something-Strange",
-    demo: "",
+    demo: "https://something-strange.vercel.app",
     date: "",
-    images: ["/projects/gaming-site.png"],
+    images: ["/website3.png"],
     videos: [""],
     highlights: [
       "Designed futuristic gaming UI",
